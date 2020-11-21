@@ -1,0 +1,13 @@
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekTwoChallenge\weekTwoChallenge2\weekTwoChallenge2\bin\Debug\netcoreapp3.1\weekTwoChallenge2.exe
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekTwoChallenge\weekTwoChallenge2\weekTwoChallenge2\bin\Debug\netcoreapp3.1\weekTwoChallenge2.deps.json
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekTwoChallenge\weekTwoChallenge2\weekTwoChallenge2\bin\Debug\netcoreapp3.1\weekTwoChallenge2.runtimeconfig.json
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekTwoChallenge\weekTwoChallenge2\weekTwoChallenge2\bin\Debug\netcoreapp3.1\weekTwoChallenge2.runtimeconfig.dev.json
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekTwoChallenge\weekTwoChallenge2\weekTwoChallenge2\bin\Debug\netcoreapp3.1\weekTwoChallenge2.dll
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekTwoChallenge\weekTwoChallenge2\weekTwoChallenge2\bin\Debug\netcoreapp3.1\weekTwoChallenge2.pdb
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekTwoChallenge\weekTwoChallenge2\weekTwoChallenge2\obj\Debug\netcoreapp3.1\weekTwoChallenge2.csprojAssemblyReference.cache
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekTwoChallenge\weekTwoChallenge2\weekTwoChallenge2\obj\Debug\netcoreapp3.1\weekTwoChallenge2.AssemblyInfoInputs.cache
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekTwoChallenge\weekTwoChallenge2\weekTwoChallenge2\obj\Debug\netcoreapp3.1\weekTwoChallenge2.AssemblyInfo.cs
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekTwoChallenge\weekTwoChallenge2\weekTwoChallenge2\obj\Debug\netcoreapp3.1\weekTwoChallenge2.csproj.CoreCompileInputs.cache
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekTwoChallenge\weekTwoChallenge2\weekTwoChallenge2\obj\Debug\netcoreapp3.1\weekTwoChallenge2.dll
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekTwoChallenge\weekTwoChallenge2\weekTwoChallenge2\obj\Debug\netcoreapp3.1\weekTwoChallenge2.pdb
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekTwoChallenge\weekTwoChallenge2\weekTwoChallenge2\obj\Debug\netcoreapp3.1\weekTwoChallenge2.genruntimeconfig.cache
